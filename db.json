@@ -1,0 +1,22 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "name": "Angel Carrera"
+    },
+    {
+      "id": 2,
+      "name": "Marcio Pereyra"
+    }
+  ],
+  "profes": [
+    {
+      "id": 1,
+      "name": "Diego Fernández"
+    },
+    {
+      "id": 2,
+      "name": "Paula Moyano"
+    }
+  ]
+}
